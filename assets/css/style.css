@@ -22,9 +22,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Lato", sans-serif;
 }
 
-/*--------------------------------------------------------------
-# Secciones
---------------------------------------------------------------*/
 section {
   padding: 60px 0;
 }
@@ -52,9 +49,7 @@ section {
 .section-title p.centrado {
   text-align: center;
 }
-/*--------------------------------------------------------------
-# Breadcrumbs
---------------------------------------------------------------*/
+
 .breadcrumbs {
   padding: 20px 0;
   background-color: #f6fafa;
@@ -100,9 +95,7 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Back to top button
---------------------------------------------------------------*/
+
 .back-to-top {
   position: fixed;
   visibility: hidden;
@@ -167,9 +160,7 @@ section {
   margin-top: 80px;
 }
 
-/*--------------------------------------------------------------
-# Menu
---------------------------------------------------------------*/
+
 /**
 * Desktop Navigation 
 */
@@ -382,7 +373,7 @@ section {
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 56px;
   color: #fff;
 }
@@ -390,7 +381,7 @@ section {
   color: #eee;
   margin-bottom: 50px;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 500;
 }
 #hero .btn-get-started {
   font-family: "Lato", sans-serif;
@@ -459,6 +450,7 @@ section {
 
 .about p {
   text-align: justify;
+  line-height: 2.5rem;
 }
 .about p:last-child {
   margin-bottom: 0;
